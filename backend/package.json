@@ -17,7 +17,7 @@
     "mongoose": "^5.10.9"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.22"
   },
   "author": "Your Name",
   "license": "MIT"
